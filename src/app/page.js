@@ -33,8 +33,8 @@ export default function Home() {
           className={styles.logo}
           src="/esg.png"
           alt="ESG"
-          width={800}
-          height={500}
+          width={400}
+          height={300}
           priority
         />
       </div>
